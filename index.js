@@ -3,8 +3,8 @@ const { mineflayer: mineflayerViewer } = require('prismarine-viewer');
 require('./server'); // Adiciona o servidor para manter o bot ativo
 
 const bot = mineflayer.createBot({
-  host: 'endereco_do_servidor',
-  port: 25565,
+  host: 'kamaga321.aternos.me',
+  port: 11324,
   username: 'nome_do_bot',
   version: '1.16.4'
 });
